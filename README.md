@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/d0159ed0-b66b-4d2b-8469-bbfcca6d9a0a)
 
-307 working wallets from Bitcoin Core (86 of them have passed the authentication check) + MEGA-BONUS.<br>
+307 working wallets from Bitcoin Core (86 of them have passed the authentication check) + MEGA-BONUS.<br>gb
 Wallets require a password!<br>
 [Balances list 307 wallets](https://github.com/phrutis/LostWallets/edit/main/README.md#307-walletdat-balance)<br>
 Advantage:<br>
